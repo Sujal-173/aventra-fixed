@@ -1,0 +1,15 @@
+/* TEAM */
+Founder & Full-Stack Developer: Sujal Patidar
+Location: Indore, Madhya Pradesh, India
+GitHub: https://github.com/Sujal-173
+
+/* SITE */
+Last update: 2026
+Language: English
+Doctype: HTML5
+Standards: WCAG 2.1 AA (target), Schema.org, Open Graph
+Components: Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS, Sanity CMS
+Software: Next.js, Vercel
+
+/* THANKS */
+Thanks for reading — if you're a fellow developer, feel free to reach out.
